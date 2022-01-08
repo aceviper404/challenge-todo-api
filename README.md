@@ -8,7 +8,7 @@ After forking and cloning this repository, run the following commands:
 ```
 
 ## Documentation
-----
+------
 ## Rest Endpoint:
 `http://localhost:4000/api/v1`
 
